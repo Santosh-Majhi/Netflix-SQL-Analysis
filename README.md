@@ -5,3 +5,4 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 
 ## Objecties
 1- Analyze the distribution of content types(movies vs Tv shows).
+2- Identify the most common ratings for movies and TV shows.
